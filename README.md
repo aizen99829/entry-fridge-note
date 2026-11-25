@@ -8,7 +8,7 @@ Entry for the make.fun bounty **"Notes From a Passive-Aggressive Fridge"** — o
 
 ## Why a fridge would say this
 
-A smart fridge watches everything: the midnight raids, the door opened just to stare into the light, the leftovers abandoned until they evolve into science projects. After 47 days of 3am visits with no purpose, the polite appliance gives up pretending and starts keeping a log instead. It is cold by design — and now, by attitude.
+A smart fridge watches everything: the midnight raids, the door opened just to stare into the light, the leftovers abandoned until they evolve into science projects. After 47 days of 3am visits with no purpose, the polite appliance gives up pretending to be fine and starts keeping a log instead.
 
 ## Run it
 
